@@ -51,3 +51,10 @@ Escape characters using a backslash \.
 # 17. Disabling Markdown Rendering
 Click "Code" to view raw Markdown instead of rendered text.
 This breakdown organizes the key sections and highlights their core functions and syntax.
+
+
+
+# table
+|section 1|section 2|section 3|
+|:-:|:--|--:|
+|middle|left|right|
