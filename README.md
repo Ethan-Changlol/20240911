@@ -78,3 +78,6 @@ $\sqrt{3x-1}+(1+x)^2$
 $\frac{x^2 - 9}{x^2 + 2x - 3}$
 ## Links
 [KAS](https://kas.tw)
+# Image
+
+![dog](https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_square.jpg)
